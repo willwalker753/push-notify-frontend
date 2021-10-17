@@ -49,3 +49,9 @@ button {
   border: none;
   background-color: #ffffff36;
 }
+
+@media (min-width: 800px) {
+  .content-container {
+    width: 50%;
+  }
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import stopSign from "./stop-sign.png";
-import "./app.css"
+import "./App.css"
 
 function App() {
   return (
